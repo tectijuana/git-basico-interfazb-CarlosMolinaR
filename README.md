@@ -1,3 +1,4 @@
 # 👋 Ejercicios de c++ 💻
 
-## 🤓 Course overview and learning outcomes 
+## Realizados por Carlos Manuel Molina Reyes 
+   Numero de control: #20210601
